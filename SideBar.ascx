@@ -97,9 +97,6 @@
             </ul>
         </li>
 
-
-
-
         <li id="liTeam" runat="server" visible="false">
             <a href="javascript:;">
                 <i class="icon-bookmark-empty"></i>
