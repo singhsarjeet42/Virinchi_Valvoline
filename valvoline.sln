@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Valvoline Admin", ".", "{C668CA4E-6DDB-4164-96E8-530B9E3B9E02}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52920"
+		Debug.AspNetCompiler.PhysicalPath = "..\Valvoline Admin\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52920\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52920"
+		Release.AspNetCompiler.PhysicalPath = "..\Valvoline Admin\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52920\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52920"
+		SlnRelativePath = "..\Valvoline Admin\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C668CA4E-6DDB-4164-96E8-530B9E3B9E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C668CA4E-6DDB-4164-96E8-530B9E3B9E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A73FE0E-524A-46FA-AF5C-1A22C3C4DBCC}
+	EndGlobalSection
+EndGlobal
